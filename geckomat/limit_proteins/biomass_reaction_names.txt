@@ -1,0 +1,204 @@
+{'Acetate'                                                                                                                                  }
+    {'alpha-Carotene'                                                                                                                           }
+    {'ADP'                                                                                                                                      }
+    {'L-Alanyl-tRNA(Ala)'                                                                                                                       }
+    {'Antheraxanthin'                                                                                                                           }
+    {'L-Arabinose'                                                                                                                              }
+    {'L-Arginyl-tRNA(Arg)'                                                                                                                      }
+    {'L-Asparaginyl-tRNA(Asn)'                                                                                                                  }
+    {'L-Aspartyl-tRNA(Asp)'                                                                                                                     }
+    {'2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:1(11Z)/16:0)'                              }
+    {'2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:1(9Z)/16:0)'                               }
+    {'2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:2(9Z,12Z)/16:0)'                           }
+    {'2'-O-all-cis-5,9,12,15-octadecatetraenoyl-sulfoquinovosyldiacylglycerol (2'-18:4(5,9,12,15)/18:3(9Z,12Z,15Z)/16:0)'                       }
+    {'2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:1(11Z)/16:0)'                                      }
+    {'2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:1(9Z)/16:0)'                                       }
+    {'2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:2(9Z,12Z)/16:0)'                                   }
+    {'2'-O-all-cis-5,9,12-octadecatrienoyl-sulfoquinovosyldiacylglycerol (2'-18:3(5,9,12)/18:3(9Z,12Z,15Z)/16:0)'                               }
+    {'ATP'                                                                                                                                      }
+    {'Biotin'                                                                                                                                   }
+    {'Butyrate (n-C4:0)'                                                                                                                        }
+    {'beta-Carotene'                                                                                                                            }
+    {'Chlorophyll a'                                                                                                                            }
+    {'Chlorophyll b'                                                                                                                            }
+    {'CTP'                                                                                                                                      }
+    {'L-Cysteinyl-tRNA(Cys)'                                                                                                                    }
+    {'dATP'                                                                                                                                     }
+    {'dCTP'                                                                                                                                     }
+    {'Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)'                                                           }
+    {'Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z)-hexadecenoyl, 18:1(9Z)/16:1(7Z))'                                                  }
+    {'Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl, 18:1(9Z)/16:1(9Z))'                                                  }
+    {'Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z,10Z)-hexadecadienoyl, 18:1(9Z)/16:2(7Z,10Z))'                                       }
+    {'Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:1(9Z)/16:3(4Z,7Z,10Z))'                                }
+    {'Digalactosyldiacylglycerol (1-(9Z)-octadecenoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:1(9Z)/16:3(7Z,10Z,13Z))'                              }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)'                                                }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(7Z))'                                       }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(9Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(9Z))'                                       }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:2(9Z,12Z)/16:2(7Z,10Z))'                            }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(4Z,7Z,10Z))'                     }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(7Z,10Z,13Z))'                   }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)'                                       }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:3(9Z,12Z,15Z)/16:2(7Z,10Z))'                   }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(4Z,7Z,10Z))'            }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(7Z,10Z,13Z))'          }
+    {'Digalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z,13Z)-hexadecatetraenoyl, 18:3(9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))'  }
+    {'dGTP'                                                                                                                                     }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:1(11Z))'                                                                                }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:1(9Z))'                                                                                 }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:2(9Z,12Z))'                                                                             }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:3(5Z,9Z,12Z))'                                                                          }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (16:0/18:4(5Z,9Z,12Z,15Z))'                                                                      }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:1(11Z))'                                                                           }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:1(9Z))'                                                                            }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:2(9Z,12Z))'                                                                        }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:3(5Z,9Z,12Z))'                                                                     }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(11Z)/18:4(5Z,9Z,12Z,15Z))'                                                                 }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:1(11Z))'                                                                            }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:1(9Z))'                                                                             }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:2(9Z,12Z))'                                                                         }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:3(5Z,9Z,12Z))'                                                                      }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:1(9Z)/18:4(5Z,9Z,12Z,15Z))'                                                                  }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:1(11Z))'                                                                        }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:1(9Z))'                                                                         }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:2(9Z,12Z))'                                                                     }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:3(5Z,9Z,12Z))'                                                                  }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:2(9Z,12Z)/18:4(5Z,9Z,12Z,15Z))'                                                              }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:1(11Z))'                                                                    }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:1(9Z))'                                                                     }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:3(5Z,9Z,12Z))'                                                              }
+    {'diacylglyceryl-N,N,N-trimethylhomoserine (18:3(9Z,12Z,15Z)/18:4(5Z,9Z,12Z,15Z))'                                                          }
+    {'dTTP'                                                                                                                                     }
+    {'Flavin adenine dinucleotide oxidized'                                                                                                     }
+    {'D-Galactose'                                                                                                                              }
+    {'L-Glutaminyl-tRNA(Gln)'                                                                                                                   }
+    {'L-Glutamyl-tRNA(Glu)'                                                                                                                     }
+    {'Glycerol'                                                                                                                                 }
+    {'Glycyl-tRNA(Gly)'                                                                                                                         }
+    {'Reduced glutathione'                                                                                                                      }
+    {'GTP'                                                                                                                                      }
+    {'H+'                                                                                                                                       }
+    {'H2O'                                                                                                                                      }
+    {'L-Histidyl-tRNA(His)'                                                                                                                     }
+    {'L-Isoleucyl-tRNA(Ile)'                                                                                                                    }
+    {'L-Leucyl-tRNA(Leu)'                                                                                                                       }
+    {'Loroxanthin'                                                                                                                              }
+    {'Lutein'                                                                                                                                   }
+    {'L-Lysine-tRNA (Lys)'                                                                                                                      }
+    {'D-Mannose'                                                                                                                                }
+    {'L-Methionyl-tRNA (Met)'                                                                                                                   }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)'                                              }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(7Z))'                                     }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(9Z)-hexadecenoyl, 18:2(9Z,12Z)/16:1(9Z))'                                     }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:2(9Z,12Z)/16:2(7Z,10Z))'                          }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(4Z,7Z,10Z))'                   }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:2(9Z,12Z)/16:3(7Z,10Z,13Z))'                 }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(4Z,7Z,10Z,13Z)-hexadecatetraenoyl, 18:2(9Z,12Z)/16:4(4Z,7Z,10Z,13Z))'         }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)'                                     }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z)-hexadecadienoyl, 18:3(9Z,12Z,15Z)/16:2(7Z,10Z))'                 }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(4Z,7Z,10Z))'          }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(7Z,10Z,13Z)-hexadecatrienoyl, 18:3(9Z,12Z,15Z)/16:3(7Z,10Z,13Z))'        }
+    {'Monogalactosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(4Z,7Z,10Z,13Z)-hexadecatetraenoyl, 18:3(9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))'}
+    {'Nicotinamide adenine dinucleotide'                                                                                                        }
+    {'Nicotinamide adenine dinucleotide - reduced'                                                                                              }
+    {'Nicotinamide adenine dinucleotide phosphate'                                                                                              }
+    {'Nicotinamide adenine dinucleotide phosphate - reduced'                                                                                    }
+    {'Neoxanthin'                                                                                                                               }
+    {'1-Phosphatidyl-D-myo-inositol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)'                                                      }
+    {'1-Phosphatidyl-D-myo-inositol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)'                                                        }
+    {'phosphatidylethanolamine (18:0/18:3(5Z,9Z,12Z))'                                                                                          }
+    {'phosphatidylethanolamine (18:0/18:4(5Z,9Z,12Z,15Z))'                                                                                      }
+    {'phosphatidylethanolamine (18:1(11Z)/18:3(5Z,9Z,12Z))'                                                                                     }
+    {'phosphatidylethanolamine (18:1(11Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                 }
+    {'phosphatidylethanolamine (18:1(9Z)/18:3(5Z,9Z,12Z))'                                                                                      }
+    {'phosphatidylethanolamine (18:1(9Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                  }
+    {'phosphatidylethanolamine (18:2(9Z,12Z)/18:3(5Z,9Z,12Z))'                                                                                  }
+    {'Phosphatidylglycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)'                                                               }
+    {'Phosphatidylglycerol (1-(11Z)-octadecenoyl,2-(3E)-hexadecenoyl, 18:1(11Z)/16:1(3E))'                                                      }
+    {'Phosphatidylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)'                                                                 }
+    {'Phosphatidylglycerol (1-(9Z)-octadecenoyl,2-(3E)-hexadecenoyl, 18:1(9Z)/16:1(3E))'                                                        }
+    {'Phosphatidylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)'                                                      }
+    {'Phosphatidylglycerol (1-(9Z,12Z)-octadecadienoyl,2-(3E)-hexadecenoyl, 18:2(9Z,12Z)/16:1(3E))'                                             }
+    {'Phosphatidylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)'                                             }
+    {'Phosphatidylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-(3E)-hexadecenoyl, 18:3(9Z,12Z,15Z)/16:1(3E))'                                    }
+    {'L-Phenylalanyl-tRNA(Phe)'                                                                                                                 }
+    {'Phosphate'                                                                                                                                }
+    {'Propionate (n-C3:0)'                                                                                                                      }
+    {'L-Prolyl-tRNA(Pro)'                                                                                                                       }
+    {'Rhodopsin'                                                                                                                                }
+    {'L-Seryl-tRNA(Ser)'                                                                                                                        }
+    {'Sulfoquinovosyldiacylglycerol (dihexadecanoyl, n-C16:0)'                                                                                  }
+    {'Sulfoquinovosyldiacylglycerol (1-(11Z)-octadecenoyl,2-hexadecanoyl, 18:1(11Z)/16:0)'                                                      }
+    {'Sulfoquinovosyldiacylglycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0)'                                                        }
+    {'Sulfoquinovosyldiacylglycerol (1-(9Z,12Z)-octadecadienoyl,2-hexadecanoyl, 18:2(9Z,12Z)/16:0)'                                             }
+    {'Sulfoquinovosyldiacylglycerol (1-(9Z,12Z,15Z)-octadecatrienoyl,2-hexadecanoyl, 18:3(9Z,12Z,15Z)/16:0)'                                    }
+    {'starch n=300 repeat units (80 repeat units amylose, 220 repeat units amylopectin, corresponds to maize starch)'                           }
+    {'Triacylglycerol (16:0/18:1(11Z)/16:0)'                                                                                                    }
+    {'Triacylglycerol (16:0/18:1(11Z)/18:0)'                                                                                                    }
+    {'Triacylglycerol (16:0/18:1(11Z)/18:1(11Z))'                                                                                               }
+    {'Triacylglycerol (16:0/18:1(11Z)/18:1(9Z))'                                                                                                }
+    {'Triacylglycerol (16:0/18:1(11Z)/18:3(5Z,9Z,12Z))'                                                                                         }
+    {'Triacylglycerol (16:0/18:1(11Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                     }
+    {'Triacylglycerol (16:0/18:1(9Z)/16:0)'                                                                                                     }
+    {'Triacylglycerol (16:0/18:1(9Z)/18:0)'                                                                                                     }
+    {'Triacylglycerol (16:0/18:1(9Z)/18:1(11Z))'                                                                                                }
+    {'Triacylglycerol (16:0/18:1(9Z)/18:1(9Z))'                                                                                                 }
+    {'Triacylglycerol (16:0/18:1(9Z)/18:3(5Z,9Z,12Z))'                                                                                          }
+    {'Triacylglycerol (16:0/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                      }
+    {'Triacylglycerol (18:0/18:1(9Z)/16:0)'                                                                                                     }
+    {'Triacylglycerol (18:0/18:1(9Z)/18:0)'                                                                                                     }
+    {'Triacylglycerol (18:0/18:1(9Z)/18:1(11Z))'                                                                                                }
+    {'Triacylglycerol (18:0/18:1(9Z)/18:1(9Z))'                                                                                                 }
+    {'Triacylglycerol (18:0/18:1(9Z)/18:3(5Z,9Z,12Z))'                                                                                          }
+    {'Triacylglycerol (18:0/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                      }
+    {'Triacylglycerol (18:1(11Z)/18:1(11Z)/16:0)'                                                                                               }
+    {'Triacylglycerol (18:1(11Z)/18:1(11Z)/18:0)'                                                                                               }
+    {'Triacylglycerol (18:1(11Z)/18:1(11Z)/18:1(11Z))'                                                                                          }
+    {'Triacylglycerol (18:1(11Z)/18:1(11Z)/18:1(9Z))'                                                                                           }
+    {'Triacylglycerol (18:1(11Z)/18:1(11Z)/18:3(5Z,9Z,12Z))'                                                                                    }
+    {'Triacylglycerol (18:1(11Z)/18:1(11Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                }
+    {'Triacylglycerol (18:1(11Z)/18:1(9Z)/16:0)'                                                                                                }
+    {'Triacylglycerol (18:1(11Z)/18:1(9Z)/18:0)'                                                                                                }
+    {'Triacylglycerol (18:1(11Z)/18:1(9Z)/18:1(11Z))'                                                                                           }
+    {'Triacylglycerol (18:1(11Z)/18:1(9Z)/18:1(9Z))'                                                                                            }
+    {'Triacylglycerol (18:1(11Z)/18:1(9Z)/18:3(5Z,9Z,12Z))'                                                                                     }
+    {'Triacylglycerol (18:1(11Z)/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                 }
+    {'Triacylglycerol (18:1(9Z)/18:1(11Z)/16:0)'                                                                                                }
+    {'Triacylglycerol (18:1(9Z)/18:1(11Z)/18:0)'                                                                                                }
+    {'Triacylglycerol (18:1(9Z)/18:1(11Z)/18:1(11Z))'                                                                                           }
+    {'Triacylglycerol (18:1(9Z)/18:1(11Z)/18:1(9Z))'                                                                                            }
+    {'Triacylglycerol (18:1(9Z)/18:1(11Z)/18:3(5Z,9Z,12Z))'                                                                                     }
+    {'Triacylglycerol (18:1(9Z)/18:1(11Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                 }
+    {'Triacylglycerol (18:1(9Z)/18:1(9Z)/16:0)'                                                                                                 }
+    {'Triacylglycerol (18:1(9Z)/18:1(9Z)/18:0)'                                                                                                 }
+    {'Triacylglycerol (18:1(9Z)/18:1(9Z)/18:1(11Z))'                                                                                            }
+    {'Triacylglycerol (18:1(9Z)/18:1(9Z)/18:1(9Z))'                                                                                             }
+    {'Triacylglycerol (18:1(9Z)/18:1(9Z)/18:3(5Z,9Z,12Z))'                                                                                      }
+    {'Triacylglycerol (18:1(9Z)/18:1(9Z)/18:4(5Z,9Z,12Z,15Z))'                                                                                  }
+    {'Thiamine monophosphate'                                                                                                                   }
+    {'L-Threonyl-tRNA(Thr)'                                                                                                                     }
+    {'tRNA(Ala)'                                                                                                                                }
+    {'tRNA(Arg)'                                                                                                                                }
+    {'tRNA(Asn)'                                                                                                                                }
+    {'tRNA(Asp)'                                                                                                                                }
+    {'tRNA(Cys)'                                                                                                                                }
+    {'tRNA(Gln)'                                                                                                                                }
+    {'tRNA(Glu)'                                                                                                                                }
+    {'tRNA(Gly)'                                                                                                                                }
+    {'tRNA(His)'                                                                                                                                }
+    {'tRNA(Ile)'                                                                                                                                }
+    {'tRNA(Leu)'                                                                                                                                }
+    {'tRNA(Lys)'                                                                                                                                }
+    {'tRNA(Met)'                                                                                                                                }
+    {'tRNA(Phe)'                                                                                                                                }
+    {'tRNA(Pro)'                                                                                                                                }
+    {'tRNA(Ser)'                                                                                                                                }
+    {'tRNA(Thr)'                                                                                                                                }
+    {'tRNA(Trp)'                                                                                                                                }
+    {'tRNA(Tyr)'                                                                                                                                }
+    {'tRNA(Val)'                                                                                                                                }
+    {'L-Tryptophanyl-tRNA(Trp)'                                                                                                                 }
+    {'L-Tyrosyl-tRNA(Tyr)'                                                                                                                      }
+    {'UTP'                                                                                                                                      }
+    {'L-Valyl-tRNA(Val)'                                                                                                                        }
+    {'Violaxanthin'                                                                                                                             }
+    {'Zeaxanthin'                                                                                                                               }

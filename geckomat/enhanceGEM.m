@@ -13,7 +13,7 @@ if nargin < 4
 end
 
 %Provide your organism scientific name
-org_name = 'saccharomyces cerevisiae';
+org_name = 'chlamydomonas reinhardtii';
 
 %Convert model to RAVEN for easier visualization later on:
 format short e
@@ -39,8 +39,14 @@ ecModel                 = readKcatData(model_data,kcats);
 %Constrain model to batch conditions:
 sigma    = 0.5;      %Optimized for glucose
 Ptot     = 0.5;      %Assumed constant
-gR_exp   = 0.41;     %[g/gDw h] Max batch gRate on minimal glucose media
-c_source = 'D-glucose exchange (reversible)'; %Rxn name for the glucose uptake reaction
+%gR_exp   = 0.41;     %[g/gDw h] Max batch gRate on minimal glucose media
+%c_source = 'D-glucose exchange (reversible)'; %Rxn name for the glucose uptake reaction
+
+5.4967e-02
+EX_co2_e
+
+c_source = 'D-glucose exchange (reversible)';
+
 cd ../limit_proteins
 [ecModel_batch,OptSigma] = getConstrainedModel(ecModel,c_source,sigma,Ptot,gR_exp,modifications,name);
 disp(['Sigma factor (fitted for growth on glucose): ' num2str(OptSigma)])

@@ -6,7 +6,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [model,modifications] = manualModifications(model)
-
+modifications = cell(0,0);
+return;
 %Read manual data:
 fID           = fopen('../../databases/manual_data.txt');
 data          = textscan(fID,'%s %s %s %s %f','delimiter','\t');

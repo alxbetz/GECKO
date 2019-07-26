@@ -39,8 +39,8 @@ rxnToAdd.stoichCoeffs = 1;
 rxnToAdd.lb           = 0;
 rxnToAdd.ub           = UB;
 rxnToAdd.grRules      = {''};
-model = addRxns(model,rxnToAdd);
-
+%model = addRxns(model,rxnToAdd);
+model = addRxns(model,rxnToAdd,1,comp,true);
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

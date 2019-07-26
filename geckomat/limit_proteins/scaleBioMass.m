@@ -41,11 +41,11 @@ if isempty(GAM)
 end
 
 %Change GAM:
-xr_pos = strcmp(model.rxnNames,'biomass pseudoreaction');
+xr_pos = strcmp(model.rxnNames,'Biomass (mixotrophic) updated');
 for i = 1:length(model.mets)
     S_ix  = model.S(i,xr_pos);
     isGAM = sum(strcmp({'ATP','ADP','H2O','H+','phosphate'},model.metNames{i})) == 1;
-    if S_ix ~= 0 && isGAM
+    if (S_ix ~= 0) && isGAM
         %Polymerization costs from Forster et al 2003 - table S8:
         GAMpol = Ptot*37.7 + Ctot*12.8 + R*26.0 + D*26.0;
         model.S(i,xr_pos) = sign(S_ix)*(GAM + GAMpol);
